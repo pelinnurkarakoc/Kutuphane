@@ -1,0 +1,1 @@
+Hocam benim bilgisayarımda MSSQL çok kastığı için arkadaşım yardımıyla MYSQL sunucusunu kurdum ve verileri oradan alıyorum.Sizin SQL ile alakalı herhangi bir şey çalıştırmanıza gerek yok.
